@@ -18,6 +18,7 @@ One of the standout features of the Skyscript project is its potential to revolu
 
 
 Currently the roject is in the building stage wherein the data is collected from the canvas and passed to the machine learning model for aking predictions. The accuracy of the model is below average but efforts are being made to minimize the error
+
 <img width="307" alt="Screenshot 2023-08-19 at 10 51 16 PM" src="https://github.com/saniya1027108/SkyScript/assets/56751947/3cc056d7-79d3-4430-a61f-3653aa232284">
 
 ### Algorithms Used
